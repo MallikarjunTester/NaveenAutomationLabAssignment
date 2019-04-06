@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79377" started-at="2019-04-06T13:16:32Z" finished-at="2019-04-06T13:17:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79377" started-at="2019-04-06T13:16:32Z" finished-at="2019-04-06T13:17:52Z">
+      <class name="testscripts.NaveenAutomationLabsAssessment1">
+        <test-method status="PASS" signature="setDriverPath()[pri:0, instance:testscripts.NaveenAutomationLabsAssessment1@4c70fda8]" name="setDriverPath" is-config="true" duration-ms="23" started-at="2019-04-06T13:16:32Z" finished-at="2019-04-06T13:16:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriverPath -->
+        <test-method status="PASS" signature="doThisBeforEveryTest()[pri:0, instance:testscripts.NaveenAutomationLabsAssessment1@4c70fda8]" name="doThisBeforEveryTest" is-config="true" duration-ms="0" started-at="2019-04-06T13:16:32Z" finished-at="2019-04-06T13:16:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doThisBeforEveryTest -->
+        <test-method status="PASS" signature="doThisBeforeEveryTestMethod()[pri:0, instance:testscripts.NaveenAutomationLabsAssessment1@4c70fda8]" name="doThisBeforeEveryTestMethod" is-config="true" duration-ms="21757" started-at="2019-04-06T13:16:32Z" finished-at="2019-04-06T13:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doThisBeforeEveryTestMethod -->
+        <test-method status="PASS" signature="Assessment_TC()[pri:0, instance:testscripts.NaveenAutomationLabsAssessment1@4c70fda8]" name="Assessment_TC" duration-ms="56802" started-at="2019-04-06T13:16:54Z" finished-at="2019-04-06T13:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assessment_TC -->
+        <test-method status="PASS" signature="doThisAferMethod()[pri:0, instance:testscripts.NaveenAutomationLabsAssessment1@4c70fda8]" name="doThisAferMethod" is-config="true" duration-ms="793" started-at="2019-04-06T13:17:51Z" finished-at="2019-04-06T13:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doThisAferMethod -->
+      </class> <!-- testscripts.NaveenAutomationLabsAssessment1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
